@@ -33,6 +33,7 @@ header {
     justify-content: space-between;
 }
 .logo {
+    mix-blend-mode: darken;
     margin: 1em;
     padding: 0;
     width: 30%;
